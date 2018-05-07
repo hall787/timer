@@ -16,5 +16,17 @@ namespace timer
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (label1.Text == "Normal")
+            {
+                label1.Text = "Active";
+            }
+            else
+            {
+                label1.Text = "Normal";
+            }
+        }
     }
 }

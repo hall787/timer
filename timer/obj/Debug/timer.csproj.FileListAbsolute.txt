@@ -1,1 +1,9 @@
 C:\Users\ZHS\Documents\GitHub\timer\timer\bin\Debug\timer.exe.config
+C:\Users\ZHS\Documents\GitHub\timer\timer\bin\Debug\timer.exe
+C:\Users\ZHS\Documents\GitHub\timer\timer\bin\Debug\timer.pdb
+C:\Users\ZHS\Documents\GitHub\timer\timer\obj\Debug\timer.csprojResolveAssemblyReference.cache
+C:\Users\ZHS\Documents\GitHub\timer\timer\obj\Debug\timer.Form1.resources
+C:\Users\ZHS\Documents\GitHub\timer\timer\obj\Debug\timer.Properties.Resources.resources
+C:\Users\ZHS\Documents\GitHub\timer\timer\obj\Debug\timer.csproj.GenerateResource.Cache
+C:\Users\ZHS\Documents\GitHub\timer\timer\obj\Debug\timer.exe
+C:\Users\ZHS\Documents\GitHub\timer\timer\obj\Debug\timer.pdb
